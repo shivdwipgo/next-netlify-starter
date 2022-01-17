@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="shivdwip verma" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          shivdwip <code>pages/index.js</code>
         </p>
       </main>
 
